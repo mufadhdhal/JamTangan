@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AddItem</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d40f6968-7553-4118-b296-b5c0b1db80f2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fd5abcc9-48fa-4abc-8ce5-5ff0ef918d8f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>03582fda-8d77-4482-a989-7bfaae2ed08a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'fossil'</defaultValue>
+      <description></description>
+      <id>fd5abcc9-48fa-4abc-8ce5-5ff0ef918d8f</id>
+      <masked>false</masked>
+      <name>search</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pembayaran'</defaultValue>
+      <description></description>
+      <id>03582fda-8d77-4482-a989-7bfaae2ed08a</id>
+      <masked>false</masked>
+      <name>verify</name>
+   </variable>
+</TestCaseEntity>

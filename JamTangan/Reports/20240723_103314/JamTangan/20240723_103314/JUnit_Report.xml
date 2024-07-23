@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="JamTangan" time="142.707" tests="4" failures="2" errors="0">
+   <testsuite name="JamTangan" tests="4" failures="2" errors="0" time="142.707" skipped="0" timestamp="23-07-2024T10:33:20" hostname="SOLUSINDO - DESKTOP-EPKK6HL" id="Test Suites/JamTangan">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314"/>
+         <property name="logFiles" value="C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\execution0.log"/>
+         <property name="attachments" value="C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705608273.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705611140.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705616664.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705626028.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705629059.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705661609.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705661789.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705666621.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705669226.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705701779.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705701913.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705707984.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705710514.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705715737.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705724684.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705730450.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705736629.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705738204.png, C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705742344.png"/>
+         <property name="hostName" value="SOLUSINDO - DESKTOP-EPKK6HL"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.5.0.217"/>
+         <property name="browser" value="Chrome 126.0.0.0"/>
+         <property name="hostAddress" value="172.16.66.150"/>
+         <property name="sessionId" value="66d7ad0891197d2c06919b674fd92053"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login" time="19.735" classname="Test Cases/Login" status="PASSED">
+         <system-out><![CDATA[23-07-2024T10:33:20 - [TEST_CASE][PASSED] - Test Cases/Login: Test Cases/Login
+
+23-07-2024T10:33:21 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://www.jamtangan.com/login'
+
+23-07-2024T10:33:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+23-07-2024T10:33:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+23-07-2024T10:33:28 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.jamtangan.com/login'
+
+23-07-2024T10:33:28 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+23-07-2024T10:33:28 - [MESSAGE][PASSED] - Current window maximized
+
+23-07-2024T10:33:28 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:33:29 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:33:29 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705608273.png]]
+
+23-07-2024T10:33:29 - [TEST_STEP][PASSED] - setText(findTestObject("Login/username"), email): Text 'mufadhalh@gmail.com' is set on object 'Object Repository/Login/username'
+
+23-07-2024T10:33:30 - [MESSAGE][PASSED] - Text 'mufadhalh@gmail.com' is set on object 'Object Repository/Login/username'
+
+23-07-2024T10:33:30 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Login/password"), password): Text ****** has been set on object 'Object Repository/Login/password'
+
+23-07-2024T10:33:31 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/password'
+
+23-07-2024T10:33:31 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:33:32 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:33:32 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705611140.png]]
+
+23-07-2024T10:33:32 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_masuk")): Object: 'Object Repository/Login/button_masuk' is clicked on
+
+23-07-2024T10:33:32 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_masuk' is clicked on
+
+23-07-2024T10:33:32 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Login/verify_login"), verify): Actual text and expected text of test object 'Object Repository/Login/verify_login' are matched.
+
+23-07-2024T10:33:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Login/verify_login' are matched.
+
+23-07-2024T10:33:36 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:33:39 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:33:40 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705616664.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login" time="41.593" classname="Test Cases/Login" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Login FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Login/verify_login' FAILED.&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)&#xa;	at Login.run(Login:34)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id=&quot;app&quot;]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 20 more&#xa;"/>
+         <system-out><![CDATA[23-07-2024T10:33:40 - [TEST_CASE][FAILED] - Test Cases/Login: Test Cases/Login FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Login/verify_login' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Login.run(Login:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+
+
+23-07-2024T10:33:40 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://www.jamtangan.com/login'
+
+23-07-2024T10:33:40 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+23-07-2024T10:33:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+23-07-2024T10:33:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+23-07-2024T10:33:45 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.jamtangan.com/login'
+
+23-07-2024T10:33:45 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+23-07-2024T10:33:46 - [MESSAGE][PASSED] - Current window maximized
+
+23-07-2024T10:33:46 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:33:47 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:33:47 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705626028.png]]
+
+23-07-2024T10:33:47 - [TEST_STEP][PASSED] - setText(findTestObject("Login/username"), email): Text 'mufadhalh@gmail.com' is set on object 'Object Repository/Login/username'
+
+23-07-2024T10:33:48 - [MESSAGE][PASSED] - Text 'mufadhalh@gmail.com' is set on object 'Object Repository/Login/username'
+
+23-07-2024T10:33:48 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Login/password"), password): Text ****** has been set on object 'Object Repository/Login/password'
+
+23-07-2024T10:33:49 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/password'
+
+23-07-2024T10:33:49 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:33:49 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:33:50 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705629059.png]]
+
+23-07-2024T10:33:50 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_masuk")): Object: 'Object Repository/Login/button_masuk' is clicked on
+
+23-07-2024T10:33:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_masuk' is clicked on
+
+23-07-2024T10:33:50 - [TEST_STEP][FAILED] - verifyElementText(findTestObject("Login/verify_login"), verify): Verify element text of test object 'Object Repository/Login/verify_login' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Login/verify_login' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Login.run(Login:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+)
+
+23-07-2024T10:34:21 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+23-07-2024T10:34:21 - [MESSAGE][FAILED] - com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Login.run(Login:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705661609.png]]
+
+23-07-2024T10:34:21 - [MESSAGE][FAILED] - Verify element text of test object 'Object Repository/Login/verify_login' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Login/verify_login' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Login.run(Login:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+)
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705661789.png]]]]></system-out>
+         <system-err><![CDATA[23-07-2024T10:33:40 - [TEST_CASE][FAILED] - Test Cases/Login: Test Cases/Login FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Login/verify_login' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Login.run(Login:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Login" time="40.119" classname="Test Cases/Login" status="FAILED">
+         <failure type="FAILED" message="Test Cases/Login FAILED.&#xa;Reason:&#xa;com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Login/verify_login' FAILED.&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)&#xa;	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)&#xa;	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)&#xa;	at Login.run(Login:34)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id=&quot;app&quot;]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)&#xa;	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)&#xa;	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)&#xa;	... 20 more&#xa;"/>
+         <system-out><![CDATA[23-07-2024T10:34:21 - [TEST_CASE][FAILED] - Test Cases/Login: Test Cases/Login FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Login/verify_login' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Login.run(Login:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+
+
+23-07-2024T10:34:21 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://www.jamtangan.com/login'
+
+23-07-2024T10:34:21 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+23-07-2024T10:34:22 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+23-07-2024T10:34:22 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+23-07-2024T10:34:26 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.jamtangan.com/login'
+
+23-07-2024T10:34:26 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+23-07-2024T10:34:26 - [MESSAGE][PASSED] - Current window maximized
+
+23-07-2024T10:34:26 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:34:27 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:34:27 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705666621.png]]
+
+23-07-2024T10:34:27 - [TEST_STEP][PASSED] - setText(findTestObject("Login/username"), email): Text 'test@tes.com' is set on object 'Object Repository/Login/username'
+
+23-07-2024T10:34:28 - [MESSAGE][PASSED] - Text 'test@tes.com' is set on object 'Object Repository/Login/username'
+
+23-07-2024T10:34:28 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Login/password"), password): Text ****** has been set on object 'Object Repository/Login/password'
+
+23-07-2024T10:34:29 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/password'
+
+23-07-2024T10:34:29 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:34:30 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:34:30 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705669226.png]]
+
+23-07-2024T10:34:30 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_masuk")): Object: 'Object Repository/Login/button_masuk' is clicked on
+
+23-07-2024T10:34:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_masuk' is clicked on
+
+23-07-2024T10:34:30 - [TEST_STEP][FAILED] - verifyElementText(findTestObject("Login/verify_login"), verify): Verify element text of test object 'Object Repository/Login/verify_login' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Login/verify_login' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Login.run(Login:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+)
+
+23-07-2024T10:35:01 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]'. Please recheck the objects properties to make sure the desired element is located. 
+
+23-07-2024T10:35:01 - [MESSAGE][FAILED] - com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found (Root cause: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Login.run(Login:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+)
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705701779.png]]
+
+23-07-2024T10:35:02 - [MESSAGE][FAILED] - Verify element text of test object 'Object Repository/Login/verify_login' FAILED. (Root cause: com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Login/verify_login' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Login.run(Login:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more
+)
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705701913.png]]]]></system-out>
+         <system-err><![CDATA[23-07-2024T10:34:21 - [TEST_CASE][FAILED] - Test Cases/Login: Test Cases/Login FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Login/verify_login' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Login.run(Login:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Payment" time="40.842" classname="Test Cases/Payment" status="PASSED">
+         <system-out><![CDATA[23-07-2024T10:35:02 - [TEST_CASE][PASSED] - Test Cases/Payment: Test Cases/Payment
+
+23-07-2024T10:35:02 - [TEST_STEP][PASSED] - callTestCase(findTestCase("AddItem"), ["search":"fossil"], STOP_ON_FAILURE): Call Test Case 'Test Cases/AddItem' successfully
+
+23-07-2024T10:35:02 - [TEST_CASE][PASSED] - Test Cases/AddItem: Test Cases/AddItem
+
+23-07-2024T10:35:02 - [TEST_STEP][PASSED] - callTestCase(findTestCase("Login"), ["email":"mufadhalh@gmail.com", "password":"b9s6kak0gCR+TplIL06fnQ=="], STOP_ON_FAILURE): Call Test Case 'Test Cases/Login' successfully
+
+23-07-2024T10:35:02 - [TEST_CASE][PASSED] - Test Cases/Login: Test Cases/Login
+
+23-07-2024T10:35:02 - [TEST_STEP][PASSED] - openBrowser(url): Browser is opened with url: 'https://www.jamtangan.com/login'
+
+23-07-2024T10:35:02 - [MESSAGE][WARNING] - A browser is already opened. Closing browser and opening a new one
+
+23-07-2024T10:35:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+23-07-2024T10:35:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+23-07-2024T10:35:07 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.jamtangan.com/login'
+
+23-07-2024T10:35:07 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+23-07-2024T10:35:07 - [MESSAGE][PASSED] - Current window maximized
+
+23-07-2024T10:35:07 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:35:08 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:35:09 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705707984.png]]
+
+23-07-2024T10:35:09 - [TEST_STEP][PASSED] - setText(findTestObject("Login/username"), email): Text 'mufadhalh@gmail.com' is set on object 'Object Repository/Login/username'
+
+23-07-2024T10:35:09 - [MESSAGE][PASSED] - Text 'mufadhalh@gmail.com' is set on object 'Object Repository/Login/username'
+
+23-07-2024T10:35:09 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Login/password"), password): Text ****** has been set on object 'Object Repository/Login/password'
+
+23-07-2024T10:35:10 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Login/password'
+
+23-07-2024T10:35:10 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:35:11 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:35:11 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705710514.png]]
+
+23-07-2024T10:35:11 - [TEST_STEP][PASSED] - click(findTestObject("Login/button_masuk")): Object: 'Object Repository/Login/button_masuk' is clicked on
+
+23-07-2024T10:35:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Login/button_masuk' is clicked on
+
+23-07-2024T10:35:12 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Login/verify_login"), verify): Actual text and expected text of test object 'Object Repository/Login/verify_login' are matched.
+
+23-07-2024T10:35:15 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Login/verify_login' are matched.
+
+23-07-2024T10:35:15 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:35:18 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:35:19 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705715737.png]]
+
+23-07-2024T10:35:19 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/Login' successfully
+
+23-07-2024T10:35:19 - [TEST_STEP][PASSED] - click(findTestObject("AddItem/search_form")): Object: 'Object Repository/AddItem/search_form' is clicked on
+
+23-07-2024T10:35:20 - [MESSAGE][PASSED] - Object: 'Object Repository/AddItem/search_form' is clicked on
+
+23-07-2024T10:35:20 - [TEST_STEP][PASSED] - setText(findTestObject("AddItem/search_form"), search): Text 'fossil' is set on object 'Object Repository/AddItem/search_form'
+
+23-07-2024T10:35:21 - [MESSAGE][PASSED] - Text 'fossil' is set on object 'Object Repository/AddItem/search_form'
+
+23-07-2024T10:35:21 - [TEST_STEP][PASSED] - click(findTestObject("AddItem/search_icon")): Object: 'Object Repository/AddItem/search_icon' is clicked on
+
+23-07-2024T10:35:24 - [MESSAGE][PASSED] - Object: 'Object Repository/AddItem/search_icon' is clicked on
+
+23-07-2024T10:35:24 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:35:26 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:35:27 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705724684.png]]
+
+23-07-2024T10:35:27 - [TEST_STEP][PASSED] - click(findTestObject("AddItem/item")): Object: 'Object Repository/AddItem/item' is clicked on
+
+23-07-2024T10:35:27 - [MESSAGE][PASSED] - Object: 'Object Repository/AddItem/item' is clicked on
+
+23-07-2024T10:35:27 - [TEST_STEP][PASSED] - click(findTestObject("AddItem/beliSekarang")): Object: 'Object Repository/AddItem/beliSekarang' is clicked on
+
+23-07-2024T10:35:29 - [MESSAGE][PASSED] - Object: 'Object Repository/AddItem/beliSekarang' is clicked on
+
+23-07-2024T10:35:29 - [TEST_STEP][PASSED] - click(findTestObject("AddItem/beliSekarang_confirm")): Object: 'Object Repository/AddItem/beliSekarang_confirm' is clicked on
+
+23-07-2024T10:35:30 - [MESSAGE][PASSED] - Object: 'Object Repository/AddItem/beliSekarang_confirm' is clicked on
+
+23-07-2024T10:35:30 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:35:32 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:35:33 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705730450.png]]
+
+23-07-2024T10:35:33 - [TEST_STEP][PASSED] - click(findTestObject("AddItem/button_lanjut")): Object: 'Object Repository/AddItem/button_lanjut' is clicked on
+
+23-07-2024T10:35:33 - [MESSAGE][PASSED] - Object: 'Object Repository/AddItem/button_lanjut' is clicked on
+
+23-07-2024T10:35:33 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("AddItem/verify_pembayaran"), verify): Actual text and expected text of test object 'Object Repository/AddItem/verify_pembayaran' are matched.
+
+23-07-2024T10:35:36 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/AddItem/verify_pembayaran' are matched.
+
+23-07-2024T10:35:36 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:35:37 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:35:37 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705736629.png]]
+
+23-07-2024T10:35:37 - [MESSAGE][PASSED] - Call Test Case 'Test Cases/AddItem' successfully
+
+23-07-2024T10:35:37 - [TEST_STEP][PASSED] - click(findTestObject("Payment/pilihPengiriman")): Object: 'Object Repository/Payment/pilihPengiriman' is clicked on
+
+23-07-2024T10:35:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Payment/pilihPengiriman' is clicked on
+
+23-07-2024T10:35:37 - [TEST_STEP][PASSED] - click(findTestObject("Payment/selectPengiriman")): Object: 'Object Repository/Payment/selectPengiriman' is clicked on
+
+23-07-2024T10:35:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Payment/selectPengiriman' is clicked on
+
+23-07-2024T10:35:38 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:35:38 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:35:38 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705738204.png]]
+
+23-07-2024T10:35:38 - [TEST_STEP][PASSED] - click(findTestObject("Payment/button_pilihPembayaran")): Object: 'Object Repository/Payment/button_pilihPembayaran' is clicked on
+
+23-07-2024T10:35:39 - [MESSAGE][PASSED] - Object: 'Object Repository/Payment/button_pilihPembayaran' is clicked on
+
+23-07-2024T10:35:39 - [TEST_STEP][PASSED] - click(findTestObject("Payment/select_payment")): Object: 'Object Repository/Payment/select_payment' is clicked on
+
+23-07-2024T10:35:41 - [MESSAGE][PASSED] - Object: 'Object Repository/Payment/select_payment' is clicked on
+
+23-07-2024T10:35:41 - [TEST_STEP][PASSED] - click(findTestObject("Payment/select_Bank")): Object: 'Object Repository/Payment/select_Bank' is clicked on
+
+23-07-2024T10:35:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Payment/select_Bank' is clicked on
+
+23-07-2024T10:35:42 - [TEST_STEP][PASSED] - takeFullPageScreenshot(): Taking screenshot successfully
+
+23-07-2024T10:35:42 - [MESSAGE][INFO] - 0 hidden object(s)
+
+23-07-2024T10:35:42 - [MESSAGE][PASSED] - Taking screenshot successfully
+[[ATTACHMENT|C:\\Users\\SOLUSINDO\\Katalon Studio\\JamTangan-main\\JamTangan-main\\JamTangan\\Reports\\20240723_103314\\JamTangan\\20240723_103314\\1721705742344.png]]]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[23-07-2024T10:33:20 - [TEST_SUITE][FAILED] - JamTangan: Test Cases/Login FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Login/verify_login' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Login.run(Login:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-out>
+      <system-err><![CDATA[23-07-2024T10:33:20 - [TEST_SUITE][FAILED] - JamTangan: Test Cases/Login FAILED.
+Reason:
+com.kms.katalon.core.exception.StepFailedException: Verify element text of test object 'Object Repository/Login/verify_login' FAILED.
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:26)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.verifyElementText(VerifyElementTextKeyword.groovy:72)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword.execute(VerifyElementTextKeyword.groovy:40)
+	at com.kms.katalon.core.keyword.internal.KeywordExecutor.executeKeywordForPlatform(KeywordExecutor.groovy:74)
+	at com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords.verifyElementText(WebUiBuiltInKeywords.groovy:4835)
+	at Login.run(Login:34)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:65)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:150)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:106)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1721705594076.run(TempTestSuite1721705594076.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+Caused by: com.kms.katalon.core.exception.StepFailedException: com.kms.katalon.core.webui.exception.WebElementNotFoundException: Web element with id: 'Object Repository/Login/verify_login' located by '//*[@id="app"]/div/div[1]/div[2]/div/div[3]/div[2]/div/div/div[1]' not found
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.stepFailed(WebUIKeywordMain.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.doCall(VerifyElementTextKeyword.groovy:64)
+	at com.kms.katalon.core.webui.keyword.builtin.VerifyElementTextKeyword$_verifyElementText_closure1.call(VerifyElementTextKeyword.groovy)
+	at com.kms.katalon.core.webui.keyword.internal.WebUIKeywordMain.runKeyword(WebUIKeywordMain.groovy:20)
+	... 20 more]]></system-err>
+   </testsuite>
+</testsuites>

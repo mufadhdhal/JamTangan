@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>JamTangan</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>bf9a9492-d2b0-4ec2-a1f8-4de8193a5da0</testSuiteGuid>
+   <testCaseLink>
+      <guid>7ccaca85-8ed3-4a52-ac45-3253cd10fa3a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>acd0b6f9-00e3-4d79-b3f4-36c235093166</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/user</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>acd0b6f9-00e3-4d79-b3f4-36c235093166</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>0218fe94-a8d1-451a-b79a-3e5bfde92ce7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>acd0b6f9-00e3-4d79-b3f4-36c235093166</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>7730682c-b7c5-4a0b-a128-cee3e1d06b42</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0e8d06c5-5215-4575-ac8c-e0ce8df6a92b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>65e45d4b-ca05-46e9-9a51-0bde00409485</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ff026605-3448-4684-aacb-d5afdddeaff0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Payment</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>43c9cd63-7e10-4b79-8c4c-d9d8bd857092</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/user</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+</TestSuiteEntity>
